@@ -7,7 +7,8 @@
 
 ## 対象マイコンボード
 
-- [STM32G030 ProMicro 型開発ボードキット](https://74th.booth.pm/items/4879147)
+- [STM32G030 ProMicro 型開発ボードキット](https://74th.booth.pm/items/4879147)  
+v1.3.0
 
 ---
 
@@ -19,9 +20,9 @@
 
 ### 開発環境設定
 
-開発環境設定: [スイッチサイエンス STM32開発ボード STM32G030F6搭載](https://www.switch-science.com/products/10542?_pos=3&_sid=4fc0d15f6&_ss=r)  
+開発環境参考サイト: [スイッチサイエンス STM32開発ボード STM32G030F6搭載](https://www.switch-science.com/products/10542?_pos=3&_sid=4fc0d15f6&_ss=r)  
 
-上記設定から変更する箇所:
+上記から変更する箇所:
 - **Upload method**: `OpenOCD DapLink (SWD)`  
 
 STM32開発参考: [Arduino IDEで始める！STM32開発ボード入門ガイド 実践編](https://www.switch-science.com/blogs/magazine/arduino-ide-stm32-start-guide-practice?srsltid=AfmBOopVepInhPBymRDxTHUD87gOzaU1gcVklViDTbNgGVfrr1Z1MPj7)  
